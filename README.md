@@ -1,7 +1,7 @@
 # LLM-Unlearning-Library
 In this repo, we collect all papers in LLM unlearning!
 
-## Bechmark
+## Benchmark
  ### TOFU: A Task of Fictitious Unlearning for LLMs
    - link: https://arxiv.org/pdf/2401.06121
 
@@ -10,3 +10,5 @@ In this repo, we collect all papers in LLM unlearning!
 
  ### The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning
   - link: https://arxiv.org/pdf/2403.03218
+
+[TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/pdf/2401.06121)
